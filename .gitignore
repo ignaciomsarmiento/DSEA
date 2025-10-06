@@ -18,7 +18,7 @@ Lecture1[8-9]
 
 ### LaTeX ###
 ## Core latex/pdflatex auxiliary files:
-*.tex
+*.tex 
 *.aux
 *.lof
 *.log
