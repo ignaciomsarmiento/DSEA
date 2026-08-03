@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner_20206.png" alt="Ciencia de Datos y Econometría Aplicada" width="100%">
+  <img src="Banner_2026.png" alt="Ciencia de Datos y Econometría Aplicada" width="100%">
 </p>
 
 <h1 align="center">Ciencia de Datos y Econometría Aplicada</h1>
@@ -32,7 +32,7 @@ Las **diapositivas de las sesiones de teoría** (lunes), en formato Beamer compi
 
 ```
 DSEA/
-├── Banner_20206.png
+├── Banner_2026.png
 ├── README.md
 ├── Lecture01/
 │   └── Lecture_01.pdf
